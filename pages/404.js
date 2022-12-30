@@ -9,28 +9,7 @@ import HomeOutlinedIcon from '@mui/icons-material/HomeOutlined';
 const ErrorEl =()=>(
     <>
     <Head>
-      <title>404  - Codes With Chandan</title>
-      <link rel="icon" type="image/png" href="/codes-with-chandan-logo.png" /> 
-      <meta name="keywords" content="Codes With Chandan error, codes with chandan,web developer,HTML, CSS, JavaScript,Web Design,Advertising,Apps Design,google ads,codeswithchandan@gmail.com,website design/development" />
-      <meta name="description" content="Codes With Chandan error , web and application,web developer,website design/development" />
-      <meta name="subject" content="Education" />
-      <meta name="copyright" content="https://codeswithchandan.com" />
-      <meta name="abstract" content="web and application" />
-      <meta name="topic" content="web design and application" />
-      <meta name="summary" content="codes with chandan,web developer,HTML, CSS, JavaScript,Web Design,Advertising,Apps Design,google ads,codeswithchandan@gmail.com,website design/development" />
-      <meta name="Classification" content="Business" />
-      <meta name="author" content="Codes With Chandan" />
-      <meta name="designer" content="Codes With Chandan" /> 
-      <meta name="reply-to" content="codeswithchandan@gmail.com" />
-      <meta name="owner" content="Chandan Raj" />
-      <meta name="url" content="https://www.codeswithchandan.com" />
-      <meta name="identifier-URL" content="https://www.codeswithchandan.com" />
-      <meta name="directory" content="submission" />
-      <meta name="category" content="Education" />
-      <meta name="coverage" content="Worldwide" />
-      <meta name="distribution" content="Global" />
-      <meta name="rating" content="General" />
-      <meta name="revisit-after" content="7 days" />              
+      <title>404  - Birthday Wishes from Chandan Raj</title>             
     </Head>
     <Stack sx={{height:"100vh"}} spacing={1} justifyContent='center' alignItems="center">
         <Image 
