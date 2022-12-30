@@ -29,7 +29,9 @@ const Index = () =>{
             src='/click-here.gif'
             alt='click-here'
             width={300}
-            height={300}                       
+            height={300} 
+            placeholder="blur"
+            blurDataURL="/blur.jpg"                      
         />
       </Box>
       <Box sx={{display:mainShow}} >
@@ -47,8 +49,8 @@ const Index = () =>{
             <Image 
                 src='/baloon.gif'
                 alt='baloon'
-                width={80}
-                height={80}           
+                width={150}
+                height={150}           
             />
           </Box>
           <Box sx={{position:'absolute',bottom:0,left:0}}>

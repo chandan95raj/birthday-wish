@@ -17,6 +17,8 @@ const ErrorEl =()=>(
             alt='not-found'
             width={300}
             height={300}
+            placeholder="blur"
+            blurDataURL="/blur.jpg"
         />
         <Typography variant="h1" color="error" display={{xs:'none',md:'block'}}>
             Page Not Found | 404
