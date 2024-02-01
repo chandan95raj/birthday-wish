@@ -21,7 +21,7 @@ const Index = () =>{
   return(
     <>
     <Head>
-        <title>Happy Birthday Sarita Ji</title>             
+        <title>Happy Birthday Sir</title>             
     </Head>
     <Stack sx={{height:"100vh"}} spacing={1} justifyContent='center' alignItems="center">
       <Box sx={{display:show,cursor:'pointer'}} onClick={()=>(handleShow(),PlaySound())}>
@@ -76,10 +76,10 @@ const Index = () =>{
               height={300}           
           />
           <Typography variant="h1" color="error" display={{xs:'none',md:'block'}} className='animate__animated animate__bounceInDown'>
-              Happy Birthday Sarita Ji
+              Happy Birthday Sir
           </Typography>
           <Typography variant="h5" color="error" className='animate__animated animate__pulse animate__infinite' display={{xs:'block',md:'none'}}>
-              Happy Birthday Sarita Ji
+              Happy Birthday Sir
           </Typography>
           <Typography variant="caption" color="secondary" >
               Best Wishes from Chandan Raj
